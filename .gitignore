@@ -56,3 +56,6 @@ dkms.conf
 
 # bochs config
 boch*.*
+
+# output
+/out
